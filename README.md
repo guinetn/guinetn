@@ -10,10 +10,10 @@ I like the challenge of creating from scratch, developing new concepts and propo
 
 ## My skills
 * <strong>Be safe</strong> Git, TFS, ClearCase, Octopus
-* <strong>Be everywhere</strong> Javascript, NodeJS, Asp.net Bootstrap, React, Vue, Svelte, Html, * <strong>Css, Typescript
+* <strong>Be everywhere</strong> Javascript, NodeJS, Asp.net Bootstrap, React, Vue, Svelte, Html, Css, Typescript
 * <strong>Have methods</strong> TDD, BDD, Solid, Design patterns, Functional programming
 * <strong>Collaborate</strong> Azure devops, Agile, Scrum, Google drive-docs…
-* <strong>Data is key</strong> SqlServer, Oracle, MySQL, SqLite, MongoDB, GraphQL, Sybase. ORM : * <strong>Linq, EF, Json, Xml, Xslt, Path
+* <strong>Data is key</strong> SqlServer, Oracle, MySQL, SqLite, MongoDB, GraphQL, Sybase. Json, Xml, Xslt, Path. ORM: Linq, EF
 * <strong>Let's them talk</strong> OpenAPI, Swagger, Express
 * <strong>Or write</strong> Kafka, RabbitMQ, MQ
 * <strong>Cross the border</strong> Firebase, Azure, AWS, Netlify, IBM Bluemix
