@@ -5,9 +5,8 @@ Hi there, I'm Nicolas Guinet, a french senior software consultant based in Paris
 I have been developing software professionally for over 20 years. I like to get out my comfort zone, challenging creation from scratch, applying new concepts and proposing innovative solutions. My objective is to design and implement simple, fast, secure and reliable solutions that scale.
 
 ## My skills
-|||
 |----|----|
-|Be strong|C, C++, C#, Python, Go. WPF-Prism, Winforms| 
+| <strong>Be strong</strong> |C, C++, C#, Python, Go. WPF-Prism, Winforms| 
 | <strong>Be safe</strong> | Git, TFS, ClearCase, Octopus|
 | <strong>Be everywhere</strong> | Javascript, NodeJS, Asp.net Bootstrap, React, |Vue, Svelte, Html, Css, Typescript
 | <strong>Have methods</strong> | TDD, BDD, Solid, Design patterns, Functional |programming
