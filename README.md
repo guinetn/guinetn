@@ -2,15 +2,12 @@
 
 
 Hi there, I'm Nicolas Guinet, a french senior software consultant based in Paris and London, mainly working into finance and industry sectors.   
-
-Fast pacing evolution of IT technologies make things more easier, more beautiful and fun to do. This stimulate creativity, the fuel for passion that itself is the motor of innovation. I'm a passionate developer (scientific master) with over 20 years of experience in Finance, Industry and Aviation. I started programmation at 13 with basic and 6502A assembler on Oric-1.
-I like the challenge of creating from scratch, developing new concepts and proposing innovative solutions. Team members always ask me "How to do this?". Quality must be a daily client's experience not a claim. Currently I'm diving in machine learning. Never stop to learn, be sharp!
-
-<cite>Philosophers say that happiness is not in money, nor in being but in action. So let's do...</cite>
+I have been developing software professionally for over 20 years. I like to get out my comfort zone, challenging creation from scratch, applying new concepts and proposing innovative solutions. My objective is to design and implement simple, fast, secure and reliable solutions that scale.
 
 ## My skills
 |||
 |----|----|
+|Be strong|C, C++, C#, Python, Go. WPF-Prism, Winforms| 
 | <strong>Be safe</strong> | Git, TFS, ClearCase, Octopus|
 | <strong>Be everywhere</strong> | Javascript, NodeJS, Asp.net Bootstrap, React, |Vue, Svelte, Html, Css, Typescript
 | <strong>Have methods</strong> | TDD, BDD, Solid, Design patterns, Functional |programming
