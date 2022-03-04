@@ -3,7 +3,7 @@
 Hi there, I'm Nicolas Guinet, a french senior software consultant based in Paris and London, mainly working into finance and industry sectors.   
 I have been developing software professionally for over 20 years. I like to get out my comfort zone, challenging creation from scratch, applying new concepts and proposing innovative solutions. My objective is to design and implement simple, fast, secure and reliable solutions that can scale.
 
-### I built with
+### 🚧 I built with
 - Dotnet, Visual Studio/VSCode, UWP/Winforms, Web stack Apsnet-core/Node
 - Azure, Docker
 - IOT
