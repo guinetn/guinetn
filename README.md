@@ -4,9 +4,9 @@ Hi there, I'm Nicolas Guinet, a french senior software consultant based in Paris
 I have been developing software professionally for over 20 years. I like to get out my comfort zone, challenging creation from scratch, applying new concepts and proposing innovative solutions. My objective is to design and implement simple, fast, secure and reliable solutions that can scale.
 
 ### 🚧 I built with
-- Dotnet, Visual Studio/VSCode, UWP/Winforms, Web stack Apsnet-core/Node
-- Azure, Docker
-- IOT
+- Dotnet, C, C++, Python, Rust, Visual Studio/VSCode, UWP/Winforms, Web stack Apsnet-core/Node
+- Azure, Docker, Powershell
+- IOT, Colab, TensorFlow
 
 [My Experience on Linkedin](https://www.linkedin.com/in/nicolas-guinet-23b03412/)
 
