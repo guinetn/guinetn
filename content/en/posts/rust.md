@@ -1,6 +1,6 @@
 ---
-title: "Welcome"
-date: 2020-11-14T19:07:13+01:00
+title: "About rust lang"
+date: 2022-06-03T19:07:13+01:00
 draft: false
 ---
 # Rust
