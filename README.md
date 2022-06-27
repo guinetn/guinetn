@@ -1,17 +1,16 @@
-<strong>TL;DR:</strong>Technology enthusiast enjoying solving problems using code, eager to learn, spread the knowledge and leading teams.
+### Hey, I'm Nicolas, a french senior software consultant based in Paris 😃  
+
+**TL;DR:** Technology enthusiast enjoying solving problems using code, eager to learn, share and leading teams.
 	
-Hi there, I'm Nicolas Guinet, a french senior software consultant based in Paris and London, mainly working into finance and industry sectors.   
-I have been developing software professionally for over 20 years. I like to get out my comfort zone, challenging creation from scratch, applying new concepts and proposing innovative solutions. My objective is to design and implement simple, fast, secure and reliable solutions that can scale.
+I mainly working into finance (Kepler, Axa, Dexia, BNP) and industry sectors (Thales). Making software professionally for over 20 years, I like to get out my comfort zone, challenging creation from scratch, applying new concepts and proposing innovative solutions. My objective has always been to design and implement simple, fast, secure and reliable solutions that can scale. Hey but that's microservices!
 
 ### 🚧 I built with
 - Dotnet, C, C++, Python, Rust, Visual Studio/VSCode, UWP/Winforms, Web stack Apsnet-core/Node
 - Azure, Docker, Powershell
 - IOT, Colab, TensorFlow
+- Always tinkering w/ new technologies
+
+### I'm playing with the fast coming future...
+- Wasm + Rust + Web3
 
 [My Experience on Linkedin](https://www.linkedin.com/in/nicolas-guinet-23b03412/)
-
-<details>
-  <summary>What i am learning/working on these days</summary>
-- Rust (2022)<br/>
-- Kubernetes<br/>
-</details>
