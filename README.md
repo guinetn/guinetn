@@ -98,10 +98,10 @@
 - Wasm + Rust + Web3
 - [WasmEdge](https://www.secondstate.io/). A gate to all web3 projects (dapps, smart-contracts, blockchain, automotive, AI, Faas…)
 
-# 📈 My Stats
+# 📈 My Github Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guinetn&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guinetn&theme=vision-friendly-dark)](https://github.com/guinetn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guinetn&theme=vision-friendly-dark&layout=compact)](https://github.com/guinetn/github-readme-stats)
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guinetn&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guinetn&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
