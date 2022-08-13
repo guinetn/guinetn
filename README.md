@@ -1,4 +1,4 @@
-# 😃 Hey, I'm Nicolas, a french senior IT Consultant based in Paris   
+# 👋 Hey, I'm Nicolas, a french senior IT Consultant based in Paris   
 
 - I like challenges, creating things, learning new things, sharing and help others.
 - I mainly works into financial (Kepler, Axa, Dexia, BNP) and industrial sectors (Thales, Suez…).   
