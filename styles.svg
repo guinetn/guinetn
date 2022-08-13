@@ -1,0 +1,9 @@
+img.icon {
+  border: solid 1px #1e1e1e55;
+  height:60px;
+  width: 60px;
+}
+
+.flex {
+  display:flex;
+}
