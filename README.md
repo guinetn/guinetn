@@ -1,9 +1,8 @@
 # 👋 Hey, I'm Nicolas, a french senior IT Consultant based in Paris   
 
-- I like challenges, creating things, learning new things, sharing and help others.
-- I mainly works into financial (Kepler, Axa, Dexia, BNP) and industrial sectors (Thales, Suez…).   
-- My recipe for over 20 years for my clients satisfaction is Simplicity + Innovation + Design 
-
+- I like challenge, creating and learning new things, sharing and help others.
+- I worked for many technology leaders (Thales, Suez, Kepler, Axa, Dexia, BNP).
+- My recipe for over 20 years to get clients satisfaction is Simplicity + Innovation + Design 
 
   <a href="https://www.linkedin.com/in/nguinet/" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -43,15 +42,18 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="nodejs" alt="nodejs" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain-wordmark.svg" title="vuejs" alt="vuejs" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-plain-wordmark.svg" title="svelte" alt="svelte" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" style="width:60px; height:60px;max-width: 100%;"> | 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="less" alt="less" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original-wordmark.svg" title="hugo" alt="hugo" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="ruby" alt="ruby" style="width:60px; height:60px;max-width: 100%;"> |
 
-|  Databases    |      |      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" alt="postgresql" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="mysql" alt="mysql" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="redis" alt="redis" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="apachekafka" alt="apachekafka" style="width:60px;  height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver"  style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain-wordmark.svg" title="sqlite" alt="sqlite" style="width:60px; height:60px;max-width: 100%;">|
+|  Databases    |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- | 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" alt="postgresql" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="mysql" alt="mysql" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver"  style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain-wordmark.svg" title="sqlite" alt="sqlite" style="width:60px; height:60px;max-width: 100%;">|
 
-<br/>
+| Broker|      |      |
+| ---- | ---- | ---- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="redis" alt="redis" style="width:60px; height:60px;max-width: 100%;"> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="apachekafka" alt="apachekafka" style="width:60px;  height:60px;max-width: 100%;"> | RabbitMQ|
+
 <br/>
 …and many more like MAUI/Winforms, Apsnet-core, Powershell…
 
-# 📚 Currently I'm playing with...
+# 📚 As a constant learner, I'm currently playing with...
 - [Wasm](https://webassembly.org/) + [Rust](https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm) + [Web3](https://web3.foundation/)
 - [WasmEdge](https://www.secondstate.io/). A gate to all web3 projects (dapps, smart-contracts, blockchain, automotive, AI, Faas…)
 
