@@ -4,7 +4,7 @@
 
 
 - I like challenge, creating and learning new things, sharing and help others.
-- I worked for many technology leaders (Thales, Suez, Kepler, Axa, Dexia, BNP).
+- I worked for for well-known worldwide brands: Thales, Suez, Kepler, Axa, Dexia, BNP
 - My recipe for over 20 years to get clients satisfaction is Simplicity + Innovation + Design 
 
   <a href="https://www.linkedin.com/in/nguinet/" rel="nofollow">
@@ -13,8 +13,7 @@
   <a href="https://twitter.com/guinet_n">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://komarev.com/sources/github-profile-views-counter" rel="nofollow">
-  ![](https://komarev.com/ghpvc/?username=guinetn&style=for-the-badge)
+   <img src="https://komarev.com/ghpvc/?username=guinetn&style=for-the-badge" alt="vadorequest" />
 </a>
 
 <h1 align="center">🚧 I built with</h1>
